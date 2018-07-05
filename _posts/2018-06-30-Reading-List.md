@@ -1,8 +1,9 @@
 ---
-published: true
 layout: post
+title: Reading List
+published: true
 ---
-Generally displayed in reverse chronological order from when I first read (or listened to) the book. 
+Generally displayed in reverse chronological order from when I first read (or listened to) the book.
 1. __Thank You For Being Late__ _Thomas L. Friedman_
 1. __David and Goliath__ _Malcolm Gladwell_
 1. __Meditations__ _Marcus Aurelius_
