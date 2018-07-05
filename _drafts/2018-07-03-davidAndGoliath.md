@@ -7,5 +7,3 @@ Author: Malcolm Gladwell
 ### Key Idea
 
 ### My take
-
-
