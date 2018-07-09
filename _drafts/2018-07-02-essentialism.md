@@ -11,4 +11,17 @@ I rather like the steps Greg lays out to the essential lifestyle:
 1. Eliminate
 1. Execute
 
-These 3 steps all start with the letter 'E'. Coincidentally, the book title, Essentialism, ALSO begins with an 'E'. And thus, I will base my whole existence on the solemn truth held in it's illustrious pages. Reading this book was like uncovering a religion that I didn't know existed but unknowingly worshipped. 
+These 3 steps all start with the letter 'E'. Coincidentally, the book title, Essentialism, ALSO begins with an 'E'. And thus, I will base my whole existence on the solemn truth held in it's illustrious pages. Reading this book was like uncovering a religion that I didn't know existed but unknowingly worshipped.
+
+There are a few topics under each of the 3 E's. My favorite topic in each step is covered below. 
+
+### Explore
+Essetialists explore more but commit to less. The Power of Play - learn and do for fun. I recently read a book on Mongols that inspired me at work. Podcasts like the History of Rome and Philosophize This have provided clarity and allowed me to gather more meaning from my own life. 
+
+### Eliminate
+Extreme selectivity. If it's a No if it's not a Hell Yes. The idea is you have limited bandwidth every day. I tend to constrain myself to 1 work priority per day and 1 personal priority to help me toe the line with eliminate. This doesn't mean I can't do anything else. It just means I will hold my self-evaluation purely on completing the main priority for that day. 
+
+### Execute
+_Flow or Focus_. There's been a lot of research about getting into the flow state (also discussed in the Now habit). It's an area of interest for me. I'm always happy at the end of the day when I can even spend 30 mins to an hour in the flow state. The key here is getting to the essential thing to focus on right now. If you've got other competing thoughts vying for attention, write them down so you don't forget but switch back to complete focus on the present. 
+
+
