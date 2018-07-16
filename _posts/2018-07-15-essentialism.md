@@ -1,7 +1,6 @@
 ---
 published: true
 ---
-## Essentialism
 by Greg Mckeown
 
 This blog was conceived while reading this book. Perhaps conceived is too strong a word. I'd like to think of this blog as a direct decendent of the book. Or rather, it tries to be. At the very least, they share similar names so there is that. 
