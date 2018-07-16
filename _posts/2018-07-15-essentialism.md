@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Essentialism
 by Greg Mckeown
