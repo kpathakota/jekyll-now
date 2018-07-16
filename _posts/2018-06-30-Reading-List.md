@@ -15,5 +15,5 @@ Generally displayed in reverse chronological order from when I first read (or li
 1. __Turtles All the Way Down__ _John Green_
 1. __Genghis Khan and the Making of the Modern__ _Jack Weatherford_
 1. __Seven Brief Lessons on Physics__ _Carlo Rovelli_
-1. __Essentialism__ _Greg McKeown_
+1. __Essentialism__ _Greg McKeown_ ([Distilled](https://essentialistindian.com/essentialism/))
 1. __Mr. Money Mustache (blog)__ _Mr. Money Mustache_
