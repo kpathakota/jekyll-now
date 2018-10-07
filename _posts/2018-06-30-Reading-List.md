@@ -4,6 +4,18 @@ title: Reading List
 published: true
 ---
 Generally displayed in reverse chronological order from when I first read (or listened to) the book.
+1. __Skin in the Game__ _Nassim Nicholas Taleb_
+1. __Antifragile__ _Nassim Nicholas Taleb_
+1. __Blink__ _Malcolm Gladwell_
+1. __Siddhartha__ _Hermann Hesse_
+1. __Multipliers__ _Liz Wiseman_
+1. __Siddhartha__ _Hermann Hesse_
+1. __Silos, Politics and Turf Wars__ _Patrick Lencioni_
+1. __The Book of Joy__ _Dalai Lama, Desmond Tutu_
+1. __Ready Player One__ _Ernest Cline_
+1. __The Four__ _Scott Galloway_
+1. __The Tipping Point__ _Malcolm Gladwell_
+1. __The Power of Habit__ _Charles Duhigg_
 1. __Thank You For Being Late__ _Thomas L. Friedman_
 1. __David and Goliath__ _Malcolm Gladwell_
 1. __Meditations__ _Marcus Aurelius_
