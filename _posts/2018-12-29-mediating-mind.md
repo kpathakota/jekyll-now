@@ -5,12 +5,12 @@ published: true
 
 It's clear from discussions that many people have the following model of dissatisfaction: 
 
-![Cause and effect]({{site.baseurl}}/https://raw.githubusercontent.com/kpathakota/kpathakota.github.io/master/images/MediatingMind1.PNG)
+![Cause and effect](https://raw.githubusercontent.com/kpathakota/kpathakota.github.io/master/images/MediatingMind1.PNG)
 
 Here, X is any external force like Alice spilling milk on you or Bob cutting you off in traffic. For an intro to causal diagrams, and a great discussion of causality in general, __The Book of Why__ is a great start. 
 
 I disagree with that model. I think it's missing an important "mediator" effect. That of the Mediating Mind - AKA the self or rational conscience. The model I subscribe to looks more like this: 
-![Cause and effect with mediation]({{site.baseurl}}/https://raw.githubusercontent.com/kpathakota/kpathakota.github.io/master/images/MediatingMind2.PNG)
+![Cause and effect with mediation](https://raw.githubusercontent.com/kpathakota/kpathakota.github.io/master/images/MediatingMind2.PNG)
 
 Here, M is the "Mediating Mind" and X is any external force like you overhearing Charles tell his friends that you can't cut it at the higher levels of squash. I mean, c'mon Charles! We haven't played in years ... 
 
@@ -22,8 +22,8 @@ I however, like the flexibility of assigning a direct relationship between exter
 
 ### Directly confront the cause
 In this model, you can confront the external force that is causing you distress like so: 
-![]({{site.baseurl}}/https://raw.githubusercontent.com/kpathakota/kpathakota.github.io/master/images/MediatingMind4.PNG)
+![](https://raw.githubusercontent.com/kpathakota/kpathakota.github.io/master/images/MediatingMind4.PNG)
 
 ### Train the mediating mind
 An alternate mode of training is: 
-![]({{site.baseurl}}/https://raw.githubusercontent.com/kpathakota/kpathakota.github.io/master/images/MediatingMind3.PNG)
+![](https://raw.githubusercontent.com/kpathakota/kpathakota.github.io/master/images/MediatingMind3.PNG)
