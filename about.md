@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+I am an explorer artiste just finding my way in the world. 
 
 ### More Information
 
